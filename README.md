@@ -26,7 +26,7 @@ INSERT  INTO `vendor_schedule` VALUES (4,1,5,0,'19:00:00','22:00:00');
 
 INSERT  INTO `vendor_schedule` VALUES (5,1,6,0,'11:00:00','14:00:00');
 
-INSERT  INTO `vendor_schedule` VALUES (6,1,6,0,'19:00:00','22:00:00');
+INSERT  INTO `vendor_schedule` VALUES (6,1,6,0,'19:00:00','23:59:59');
 
 INSERT  INTO `vendor_schedule` VALUES (7,1,7,1,NULL,NULL);
 
@@ -34,9 +34,9 @@ INSERT  INTO `vendor_special_day` VALUES (1,1,'2015-12-24','closed',1,NULL,NULL)
 
 INSERT  INTO `vendor_special_day` VALUES (2,1,'2015-12-25','closed',1,NULL,NULL);
 
-INSERT  INTO `vendor_special_day` VALUES (3,1,'2015-12-26','opened',0,'19:00:00','23:59:59');
+INSERT  INTO `vendor_special_day` VALUES (3,1,'2015-12-26','opened',0,'19:00:00','22:00:00');
 
-INSERT  INTO `vendor_special_day` VALUES (4,1,'2015-12-27','opened',1,NULL,NULL);
+INSERT  INTO `vendor_special_day` VALUES (4,1,'2015-12-27','opened',0,'19:00:00','22:00:00');
 
 ## Problem description
 
