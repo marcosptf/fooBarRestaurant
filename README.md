@@ -22,6 +22,3 @@ php index.php specialday
 This command show help                                    
 php index.php help                                        
                                                           
-To run tests:                                             
-cd tests/                                                
-phpunit tests.php                                         
