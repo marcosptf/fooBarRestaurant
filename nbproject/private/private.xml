@@ -3,15 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/root/NetBeansProjects/calculator/app/absCalc.php</file>
-            <file>file:/root/NetBeansProjects/calculator/app/Validator.php</file>
-            <file>file:/root/NetBeansProjects/calculator/app/Calculator.php</file>
-            <file>file:/root/NetBeansProjects/calculator/app/Math.php</file>
-            <file>file:/root/NetBeansProjects/calculator/app/iCalc.php</file>
-            <file>file:/root/NetBeansProjects/calculator/app/Parser.php</file>
-            <file>file:/root/NetBeansProjects/calculator/app/CalculatorException.php</file>
-            <file>file:/root/NetBeansProjects/calculator/index.php</file>
-            <file>file:/root/NetBeansProjects/calculator/tests/tests.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/db/dbQueryUpdate.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/db/dbQuery.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/doc/scenario</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/Parser.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/index.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/Validator.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/workDays.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/Exception/ParserException.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/config/iConfig.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/Exception/ValidatorException.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/cliHelp.php</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/src/mysql/querys-dump.sql</file>
+            <file>file:/root/NetBeansProjects/fooBar/app/db/dbProvider.php</file>
         </group>
     </open-files>
 </project-private>

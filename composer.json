@@ -1,0 +1,41 @@
+{
+  "name": "Owner/Project",
+  "type": "Project",
+  "description": ":description",
+  "require": {
+    "php": ">=5.5",
+    "respect/config": "^2.0",
+    "respect/validation": "0.9.x",
+    "respect/data": "^0.2.2",
+    "nesbot/carbon": "~1.18",
+    "respect/relational": "^0.8.0",
+    "monolog/monolog": "1.0.*"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Owner\\Project\\": "src/Project/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Owner\\Project\\Test\\": "tests/Project/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  },
+  "authors": [
+    {
+      "name": "marcosptf",
+      "email": "marcosptf@netbeans.org",
+      "homepage": "http://github.com/marcosptf",
+      "role": "Developer"
+    }
+  ]
+}
